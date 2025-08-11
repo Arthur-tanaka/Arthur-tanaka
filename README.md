@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile, my name is Arthur!</h1>
+<h1 align="center">Welcome to my profile!</h1>
 
 ###
 
