@@ -53,8 +53,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-tanaka/Arthur-tanaka/output/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur-tanaka/Arthur-tanaka/output/dist/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur-tanaka/Arthur-tanaka/refs/heads/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arthur-tanaka/Arthur-tanaka/blob/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthur-tanaka/Arthur-tanaka/output/dist/pacman-contribution-graph.svg">
 </picture>
 
