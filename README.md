@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
 ###
 
-<h3 align="center">Languages ​​and Technologies</h3>
+<h3 align="center">Linguagens e tecnologias</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="center">Statistics</h3>
+<h3 align="center">Estatísticas</h3>
 
 ###
 
