@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Linguagens e tecnologias</h3>
+<h3 align="center">Languages ​​and technologies</h3>
 
 ###
 
