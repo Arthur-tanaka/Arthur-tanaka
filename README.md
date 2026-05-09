@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur-tanaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-tanaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
-</p>
-
-# 👋 Hi, I'm Arthur Tanaka
-
-<p align="center">
   Here you’ll find everything I’m learning and building. I hope you enjoy it!  
   If you have any questions, feel free to reach out on LinkedIn.
 </p>
