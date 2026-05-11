@@ -9,12 +9,12 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me / Sobre 
 
-- 🎓 Studying Systems Analysis and Development  
-- 🐍 Focused on Python, APIs and Data Science  
-- 📚 Always learning and building new projects  
-- 💡 Interested in back-end development and problem solving  
+- 🎓 Studying Systems Analysis and Development / Cursando Análise e desenvolvimento de sistemas
+- 🐍 Focused on Python, APIs and Data Science / Foco em Python, APIs, Ciencia de dados
+- 📚 Always learning and building new projects / Sempre aprendendo e construindo novos projetos
+- 💡 Interested in back-end development and problem solving / Interessado em desenvolvimento back-end e resolução de problemas
 
 ---
 
