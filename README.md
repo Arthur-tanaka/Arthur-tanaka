@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=800&lines=Hi,+I'm+Arthur+Tanaka;Python+Developer;API+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=800&lines=Hi,+I'm+Arthur+Tanaka;Back-end+Developer;API+Builder;" />
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" />
   <img width="20" />
@@ -39,7 +40,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
 </div>
 
 ---
