@@ -57,8 +57,6 @@
   <summary><b>🌐 API DE GESTÃO DE TIMES — Ver aplicação e detalhes</b></summary>
   <br>
   
-  **Descrição:** Explicação breve do projeto e funcionalidades principais.
-  
   * 🔗 **Aplicação no ar:** [Acessar no Render](https://api-back-end-gestao-times.onrender.com)
   * 💻 **Código-fonte:** [Repositório no GitHub](https://github.com/Arthur-tanaka/API-BACK-END-GESTAO_TIMES)
   * 🛠️ **Stack:**  HTML, CSS, JavaScript, Node.js
