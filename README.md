@@ -63,6 +63,17 @@
   > *Nota: Como está hospedado no plano gratuito do Render, o primeiro carregamento pode levar cerca de 30 a 50 segundos para iniciar o servidor.*
 </details>
 
+<details open>
+  <summary><b>🌐 API DE GESTÃO DE TIMES — Ver aplicação e detalhes</b></summary>
+  <br>
+
+  * 💾 **Site-no-ar:** https://api-de-gestao-financeira-1.onrender.com/
+  * 💻 **Código-fonte:** [Repositório no GitHub]()
+  * 🛠️ **Stack:**  Python, JS, HTML, CSS
+
+  > *Nota: Como está hospedado no plano gratuito do Render, o primeiro carregamento pode levar cerca de 30 a 50 segundos para iniciar o servidor.*
+</details>
+
 ---
 
 ## 🌐 Connect with me
