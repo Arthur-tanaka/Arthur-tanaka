@@ -51,6 +51,23 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<details open>
+  <summary><b>🌐 API DE GESTÃO DE TIMES — Ver aplicação e detalhes</b></summary>
+  <br>
+  
+  **Descrição:** Explicação breve do projeto e funcionalidades principais.
+  
+  * 🔗 **Aplicação no ar:** [Acessar no Render](https://api-back-end-gestao-times.onrender.com)
+  * 💻 **Código-fonte:** [Repositório no GitHub](https://github.com/Arthur-tanaka/API-BACK-END-GESTAO_TIMES)
+  * 🛠️ **Stack:**  HTML, CSS, JavaScript, Node.js
+
+  > *Nota: Como está hospedado no plano gratuito do Render, o primeiro carregamento pode levar cerca de 30 a 50 segundos para iniciar o servidor.*
+</details>
+
+---
+
 ## 🌐 Connect with me
 
 <div align="center"> 
