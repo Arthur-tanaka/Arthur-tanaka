@@ -69,7 +69,7 @@
   <br>
 
   * 💾 **Site-no-ar:** https://api-de-gestao-financeira-1.onrender.com/
-  * 💻 **Código-fonte:** [Repositório no GitHub]()
+  * 💻 **Código-fonte:** [Repositório no GitHub](https://github.com/Arthur-tanaka/API_DE_GESTAO_FINANCEIRA)
   * 🛠️ **Stack:**  Python, JS, HTML, CSS
 
   > *Nota: Como está hospedado no plano gratuito do Render, o primeiro carregamento pode levar cerca de 30 a 50 segundos para iniciar o servidor.*
