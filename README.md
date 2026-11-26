@@ -56,7 +56,8 @@
 <details open>
   <summary><b>🌐 API DE GESTÃO DE TIMES — Ver aplicação e detalhes</b></summary>
   <br>
-  
+
+  * 💾 **Site-no-ar:** https://api-back-end-gestao-times-1.onrender.com/
   * 💻 **Código-fonte:** [Repositório no GitHub](https://github.com/Arthur-tanaka/API-BACK-END-GESTAO_TIMES)
   * 🛠️ **Stack:**  HTML, CSS, JavaScript, Node.js
 
