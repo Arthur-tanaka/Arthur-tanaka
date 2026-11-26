@@ -65,7 +65,7 @@
 </details>
 
 <details open>
-  <summary><b>🌐 API DE GESTÃO DE TIMES — Ver aplicação e detalhes</b></summary>
+  <summary><b>🌐 API DE GESTÃO FINANCEIRA — Ver aplicação e detalhes</b></summary>
   <br>
 
   * 💾 **Site-no-ar:** https://api-de-gestao-financeira-1.onrender.com/
